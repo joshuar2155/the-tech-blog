@@ -1,0 +1,14 @@
+[
+    {
+      "description": "Description One",
+      "post_id": 1
+    },
+    {
+      "description": "Description Two",
+      "post_id": 2
+    },
+    {
+      "description": "Description Three",
+      "post_id": 3
+    }
+]
